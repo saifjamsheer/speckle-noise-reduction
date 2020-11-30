@@ -1,3 +1,4 @@
-# Noise Reduction of Satellite Imagery
+# SpeckleAway
+### Speckle Noise Reduction in Medical Imagery
 
-Designing filters to reduce the noise in satellite imagery and CT scans. 
+Designing filters to reduce the noise in medical imagery. 
