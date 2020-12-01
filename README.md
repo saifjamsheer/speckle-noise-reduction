@@ -1,14 +1,16 @@
 # SpeckleAway
 ### Speckle Noise Reduction in Medical & Satellite Imagery
 
-Using a sliding window approach, the following linear and non-linear noise-reduction filters were  implemented:
-* Mean filter
-* Median filter
-* Sharpening filter
-* Unsharp masking filter
-* Gaussian filter
-* Alpha-trimmed mean filter
-* Adaptive weighted median filter
-* Truncated median filter
+Using a sliding window approach, the following linear and non-linear noise-reduction algorithms were implemented:
+* Mean filtering 
+* Median filtering
+* Sharpening
+* Unsharp masking
+* Gaussian filtering
+* Alpha-trimmed mean filtering 
+* Adaptive weighted median filtering
+* Truncated median filtering
 * Morphological reconstruction
-* Kuwahara filter
+* Kuwahara filtering
+
+At the moment, I am trying to design a noise-reduction filter that improves upon the adaptive weighted median filter and the kuwahara filter.
