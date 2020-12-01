@@ -1,7 +1,7 @@
 # SpeckleAway
 ### Speckle Noise Reduction in Medical & Satellite Imagery
 
-Using a sliding window approach, the following linear and non-linear noise-reduction algorithms were implemented:
+This project was created to investigate noise-reduction algorithms for a future project that involves building a deep learning model to detect diseases in medical imagery. Using a sliding window approach, the following linear and non-linear noise-reduction algorithms were implemented and compared:
 * Mean filtering 
 * Median filtering
 * Sharpening
@@ -13,4 +13,4 @@ Using a sliding window approach, the following linear and non-linear noise-reduc
 * Morphological reconstruction
 * Kuwahara filtering
 
-At the moment, I am trying to design a noise-reduction filter that improves upon the adaptive weighted median filter and the kuwahara filter.
+
